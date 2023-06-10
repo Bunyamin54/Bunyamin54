@@ -1,7 +1,5 @@
 # Github
 
-<img src="https://camo.githubusercontent.com/94dd19eb3d535d86c3f9f67683989899cb6113d1c14c0425724df74ae758346a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333336424346372663656e7465723d74727565267643656e7465723d74727565266c696e65733d48692b2532432b77656c636f6d652b746f2b6d792b4769746875622b706167653b492b616d2b436f646557686974655765623b492b616d2b612b486967682b7363686f6f6c2b73747564656e743b5765622b4465763b47616d652b4465763b426f742b4465763b43727970746f2b4c6f7665722b25334333" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+FullStack+Devoloper;I+am+a+High+school+student;Web+Utvikler;Java+Script;React+NodeJ;Entusuastisk+Larevillig+%3C3" style="max-width: 100%;">
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hei!+Welkommen+min+Github+side.+;Jeg+er+Full-Stack+utvikler+og+student.;Jeg+er+glad+%C3%A5+skrive+kod+og+design.;Java-script+-+React+-+Sass+-+Node+Js" alt="Typing SVG" /></a>
 
 <img align="right" height="300px" alt="GIF" src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" data-canonical-src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
