@@ -17,8 +17,7 @@
 📫 Du kan kontakte med meg https://www.linkedin.com/in/bunyamin-genc/
 
 
-            ||  Frontend ||
-
+<div>
 <p align="left" dir="auto"> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/34c742062ec1c349330157c064fecd92e48cf58718b64de59572717ad47fe76e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3132303070782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="vscode" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;"> </a>  
 
 
@@ -30,4 +29,4 @@
 <a href="https://www.javascript.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 100%;"></a>  
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>  
 
-<a href="https://www.docker.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/6819655dad2979647adee4b2f01fc7da674eb0bff06cf25bd576427f091064a1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" alt="Docker" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" style="max-width: 100%;"></a>  
+<a href="https://www.docker.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/6819655dad2979647adee4b2f01fc7da674eb0bff06cf25bd576427f091064a1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" alt="Docker" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" style="max-width: 100%;"></a>  </div>
