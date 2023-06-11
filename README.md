@@ -6,13 +6,13 @@
 
      Litt om meg
 
-🔭 Jeg er IT og Informasjonssystem student på 2. år i Universitet i Agder
+🔭 Jeg er en IT- og informasjonssystemstudent i mitt andre år ved Universitetet i Agder.
 
-👨‍💻 Jeg lærer akkurat Java Script og React hos Clarusway IT skole.
+👨‍💻  Akkurat nå lærer jeg JavaScript og React hos Clarusway IT-skole.
 
-🌱 Jeg er positiv og lærevillig prøver finne nye ting.
+🌱Jeg er positiv og lærevillig, og alltid ivrig etter å oppdage nye ting.
 
-⚡Jeg elsker å reise Norske fjeld og dal ikke minst dette landet.
+⚡Jeg elsker å reise og utforske de norske fjellene og dalene, og ikke minst dette vakre landet.
 
 📫 Du kan kontakte med meg https://www.linkedin.com/in/bunyamin-genc/
 
