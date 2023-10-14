@@ -8,7 +8,7 @@
 
 🔭 Jeg er en IT- og informasjonssystemstudent i mitt andre år ved Universitetet i Agder.
 
-👨‍💻  Akkurat nå lærer jeg JavaScript og React hos Clarusway IT-skole.
+👨‍💻  Akkurat nå lærer jeg Nodejs etter at jeg fullført frontend delen JavaScript og React hos Clarusway IT-skole.
 
 🌱Jeg er positiv og lærevillig, og alltid ivrig etter å oppdage nye ting.
 
