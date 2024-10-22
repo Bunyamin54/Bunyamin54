@@ -5,7 +5,7 @@
 
      Litt om meg
 
-🔭 Jeg er en IT- og informasjonssystemstudent i mitt tredje år ved Universitetet i Agder.
+🔭 Som bachelorstudent i IT- og informasjonssystemer ved Universitet i Agder er jeg nå i mitt siste år.
 
 
 🌱Jeg er positiv og lærevillig, og alltid ivrig etter å oppdage nye ting.
